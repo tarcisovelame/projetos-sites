@@ -15,13 +15,13 @@
 
 <h2>Tecnologias utilizadas</h2>
 
-<h3>HTML <em>(<a href="#">meu know-how</a>)</em></h3>
+<h3>HTML <em>(<a href="https://github.com/tarcisovelame/meu-cv/tree/master/css" target="_blank">meu know-how</a>)</em></h3>
 <ul>
     <li>Codificação semântica</li>
     <li>Integração com redes sociais</li>
 </ul>
 
-<h3>CSS <em>(<a href="#">meu know-how</a>)</em></h3>
+<h3>CSS <em>(<a href="https://github.com/tarcisovelame/meu-cv/tree/master/css" target="_blank">meu know-how</a>)</em></h3>
 <ul>
     <li>CSS organizado</li>
     <li>Responsividade</li>
@@ -29,7 +29,7 @@
     <li>Animations</li>
 </ul>
 
-<h3>Wordpress <em>(<a href="#">meu know-how</a>)</em></h3>
+<h3>Wordpress <em>(<a href="https://github.com/tarcisovelame/meu-cv/tree/master/wordpress" target="_blank">meu know-how</a>)</em></h3>
 <ul>
     <li>Criação do tema</li>
     <li>Uso de Posts personalizados (Custom posts)</li>
