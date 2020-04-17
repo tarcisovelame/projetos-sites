@@ -3,7 +3,7 @@
 <img src="http://velameweb.com.br/git/config/images/monitor-with-margin.png" align="left" style="margin-top: 20px" />
 
 
-<h2>Projeta Comunicação Visual <em>(Site - 2019)</em></h2>
+<h2>Projeta Comunicação Visual <em>(Site - 2020)</em></h2>
 
 <p>Reprojeto da <strong>Projeta Comunicação Visual</strong>, empresa especializada em Counicação Visual em Salvador</p>
 
@@ -37,8 +37,7 @@
     <li>Criação de plugin</li>
 </ul>
 
-<h2>Prints do projeto</h2>
-
+<h2>Prints do projeto - 2020</h2>
 
 <img src="http://velameweb.com.br/projetos-sites/projeta-2020/screenshot.png" alt="Screenshot do projeto">
 
