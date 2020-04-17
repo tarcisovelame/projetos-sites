@@ -22,7 +22,7 @@
 > Ano que foquei em desenvolver sistemas. Caso tenha interesse em conhecer meus projetos de sistemas basta acessar meu repositório [projetos-sistemas](https://github.com/tarcisovelame/projetos-sistemas)
 
 ## 2015
-> Ano que foquei em desenvolver sistemas. Caso tenha interesse em conhecer meus projetos de sistemas basta acessar meu repositório [projetos-sistemas](https://github.com/tarcisovelame/projetos-sistemas)
+> Ano que foquei em desenvolver sistemas. Conheça meus projetos acessando meu repositório [projetos-sistemas](https://github.com/tarcisovelame/projetos-sistemas)
 
 ## 2014
 * [Santé - Clínica de bio imagem](https://github.com/tarcisovelame/projetos-sites/tree/master/sante-2014)
@@ -42,14 +42,13 @@
 * [Rane ADM - Administração de condomínios](https://github.com/tarcisovelame/projetos-sites/tree/master/rane-adm-2012)
 * [Velame Cursos](https://github.com/tarcisovelame/projetos-sites/tree/master/velame-cursos-2012)
 * [Velame WEB - Agência digital](https://github.com/tarcisovelame/projetos-sites/tree/master/velame-web-2012)
+* [(Angola) FAS - Fundo de Apoio Social](https://github.com/tarcisovelame/projetos-sites/tree/master/FAS-2012)
+* [(Angola) Vilarinho Software](https://github.com/tarcisovelame/projetos-sites/tree/master/vilarinho-2012)
 
 ## 2011
 * [Grupo Gold - Administração de condomínios](https://github.com/tarcisovelame/projetos-sites/tree/master/grupo-gold-2011)
+* [(Angola) Chibia - Província da Angola](https://github.com/tarcisovelame/projetos-sites/tree/master/chibia-2011)
+* [(Angola) DEL - Programa de Desenvolvimento Econômico Local](https://github.com/tarcisovelame/projetos-sites/tree/master/DEL-2011)
 
 ## 2009
 * [Iguatemi Pneus - Centro automotivo](https://github.com/tarcisovelame/projetos-sites/tree/master/iguatemi-pneus-2009)
-* [](https://github.com/tarcisovelame/projetos-sites/tree/master/)
-* [](https://github.com/tarcisovelame/projetos-sites/tree/master/)
-* [](https://github.com/tarcisovelame/projetos-sites/tree/master/)
-* [](https://github.com/tarcisovelame/projetos-sites/tree/master/)
-* [](https://github.com/tarcisovelame/projetos-sites/tree/master/)
