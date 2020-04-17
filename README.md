@@ -16,6 +16,7 @@
 
 ## 2017
 * [Fantástica Fábrica](https://github.com/tarcisovelame/projetos-sites/tree/master/fantastica-fabrica-2017) - Buffet infantil
+* [Velame Cursos](https://github.com/tarcisovelame/projetos-sites/tree/master/velame-cursos-2017)
 * [Planeta](https://github.com/tarcisovelame/projetos-sites/tree/master/planeta-2017) - Loja de roupas
 
 ## 2016
