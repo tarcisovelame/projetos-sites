@@ -15,7 +15,7 @@
 
 <h2>Tecnologias utilizadas</h2>
 
-<h3>HTML <em>(<a href="https://github.com/tarcisovelame/meu-cv/tree/master/css" target="_blank">meu know-how</a>)</em></h3>
+<h3><img src="https://cdn3.iconfinder.com/data/icons/picons-social/57/10-html5-64.png" alt="HTML ícone" /> HTML <em>(<a href="https://github.com/tarcisovelame/meu-cv/tree/master/css" target="_blank">meu know-how</a>)</em></h3>
 <ul>
     <li>Codificação semântica</li>
     <li>Integração com redes sociais</li>
