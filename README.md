@@ -9,30 +9,30 @@
 * [Projeta Comunicação Visual](https://github.com/tarcisovelame/projetos-sites/tree/master/projeta-2020)
 
 ## 2019
-> Ano que foquei em desenvolver sistemas. Caso tenha interesse em conhecer meus projetos de sistemas basta acessar meu repositório [projetos-sistemas](https://github.com/tarcisovelame/projetos-sistemas)
+> Ano que foquei em desenvolver sistemas. Conheça meus projetos acessando meu repositório [projetos-sistemas](https://github.com/tarcisovelame/projetos-sistemas)
 
 ## 2018
-> Ano que foquei em desenvolver sistemas. Caso tenha interesse em conhecer meus projetos de sistemas basta acessar meu repositório [projetos-sistemas](https://github.com/tarcisovelame/projetos-sistemas)
+> Ano que foquei em desenvolver sistemas. Conheça meus projetos acessando meu repositório [projetos-sistemas](https://github.com/tarcisovelame/projetos-sistemas)
 
 ## 2017
-* [Fantástica Fábrica - Buffet infantil](https://github.com/tarcisovelame/projetos-sites/tree/master/fantastica-fabrica-2017)
-* [Planeta - Loja de roupas](https://github.com/tarcisovelame/projetos-sites/tree/master/planeta-2017)
+* [Fantástica Fábrica](https://github.com/tarcisovelame/projetos-sites/tree/master/fantastica-fabrica-2017) - Buffet infantil
+* [Planeta](https://github.com/tarcisovelame/projetos-sites/tree/master/planeta-2017) - Loja de roupas
 
 ## 2016
-> Ano que foquei em desenvolver sistemas. Caso tenha interesse em conhecer meus projetos de sistemas basta acessar meu repositório [projetos-sistemas](https://github.com/tarcisovelame/projetos-sistemas)
+> Ano que foquei em desenvolver sistemas. Conheça meus projetos acessando meu repositório [projetos-sistemas](https://github.com/tarcisovelame/projetos-sistemas)
 
 ## 2015
 > Ano que foquei em desenvolver sistemas. Conheça meus projetos acessando meu repositório [projetos-sistemas](https://github.com/tarcisovelame/projetos-sistemas)
 
 ## 2014
-* [Santé - Clínica de bio imagem](https://github.com/tarcisovelame/projetos-sites/tree/master/sante-2014)
+* [Santé](https://github.com/tarcisovelame/projetos-sites/tree/master/sante-2014) - Clínica de bio imagem
 * [Mendoá Chocolates](https://github.com/tarcisovelame/projetos-sites/tree/master/mendoa-2014)
 
 ## 2013
 * [Faculdade Unyahna](https://github.com/tarcisovelame/projetos-sites/tree/master/faculdade-unyahna-2013)
-* [Home Sign - Suprimentos e Equipamentos para Comunicação Visual](https://github.com/tarcisovelame/projetos-sites/tree/master/home-sign-2013)
+* [Home Sign](https://github.com/tarcisovelame/projetos-sites/tree/master/home-sign-2013) - Suprimentos e Equipamentos para Comunicação Visual
 * [Projeta Comunicação Visual](https://github.com/tarcisovelame/projetos-sites/tree/master/projeta-2013)
-* [Vitrinning - Shopping online](https://github.com/tarcisovelame/projetos-sites/tree/master/vitrinning-2013)
+* [Vitrinning](https://github.com/tarcisovelame/projetos-sites/tree/master/vitrinning-2013) - Shopping online
 
 ## 2012
 * [Art Festa - Buffet infantil](https://github.com/tarcisovelame/projetos-sites/tree/master/art-festa-2012)
