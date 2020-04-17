@@ -1,6 +1,6 @@
 
 
-<img src="http://velameweb.com.br/git/config/images/monitor.png" align="left" style="margin-top: 20px" />
+<img src="http://velameweb.com.br/git/config/images/monitor-with-margin.png" align="left" style="margin-top: 20px" />
 
 
 <h2>Projeta Comunicação Visual <em>(Site - 2019)</em></h2>
