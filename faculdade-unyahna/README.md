@@ -1,7 +1,7 @@
 
-<p align="center">
-<img src="http://velameweb.com.br/git/config/images/monitor.png" />
-</p>
+
+<img src="http://velameweb.com.br/git/config/images/monitor.png" align="left" />
+
 
 <h3 align="center">Projeta Comunicação Visual <em>(Site - 2019)</em></h3>
 
