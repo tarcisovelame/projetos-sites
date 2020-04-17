@@ -35,20 +35,20 @@
 * [Vitrinning](https://github.com/tarcisovelame/projetos-sites/tree/master/vitrinning-2013) - Shopping online
 
 ## 2012
-* [Art Festa - Buffet infantil](https://github.com/tarcisovelame/projetos-sites/tree/master/art-festa-2012)
-* [Camisa da Latinha - Fábrica camisas e abadás](https://github.com/tarcisovelame/projetos-sites/tree/master/camisa-da-latinha-2012)
+* [Art Festa](https://github.com/tarcisovelame/projetos-sites/tree/master/art-festa-2012) - Buffet infantil
+* [Camisa da Latinha](https://github.com/tarcisovelame/projetos-sites/tree/master/camisa-da-latinha-2012) - Fábrica camisas e abadás
 * [Cordas Luminosas](https://github.com/tarcisovelame/projetos-sites/tree/master/cordas-luminosas-2012)
 * [Mundo do Jogo](https://github.com/tarcisovelame/projetos-sites/tree/master/mundo-do-jogo-2012)
-* [Rane ADM - Administração de condomínios](https://github.com/tarcisovelame/projetos-sites/tree/master/rane-adm-2012)
+* [Rane ADM](https://github.com/tarcisovelame/projetos-sites/tree/master/rane-adm-2012) - Administração de condomínios
 * [Velame Cursos](https://github.com/tarcisovelame/projetos-sites/tree/master/velame-cursos-2012)
-* [Velame WEB - Agência digital](https://github.com/tarcisovelame/projetos-sites/tree/master/velame-web-2012)
-* [(Angola) FAS - Fundo de Apoio Social](https://github.com/tarcisovelame/projetos-sites/tree/master/FAS-2012)
+* [Velame WEB](https://github.com/tarcisovelame/projetos-sites/tree/master/velame-web-2012) - Agência digital
+* [(Angola) FAS](https://github.com/tarcisovelame/projetos-sites/tree/master/FAS-2012) - Fundo de Apoio Social
 * [(Angola) Vilarinho Software](https://github.com/tarcisovelame/projetos-sites/tree/master/vilarinho-2012)
 
 ## 2011
-* [Grupo Gold - Administração de condomínios](https://github.com/tarcisovelame/projetos-sites/tree/master/grupo-gold-2011)
-* [(Angola) Chibia - Província da Angola](https://github.com/tarcisovelame/projetos-sites/tree/master/chibia-2011)
-* [(Angola) DEL - Programa de Desenvolvimento Econômico Local](https://github.com/tarcisovelame/projetos-sites/tree/master/DEL-2011)
+* [Grupo Gold](https://github.com/tarcisovelame/projetos-sites/tree/master/grupo-gold-2011) - Administração de condomínios
+* [(Angola) Chibia](https://github.com/tarcisovelame/projetos-sites/tree/master/chibia-2011) - Província da Angola
+* [(Angola) DEL](https://github.com/tarcisovelame/projetos-sites/tree/master/DEL-2011) - Programa de Desenvolvimento Econômico Local
 
 ## 2009
-* [Iguatemi Pneus - Centro automotivo](https://github.com/tarcisovelame/projetos-sites/tree/master/iguatemi-pneus-2009)
+* [Iguatemi Pneus](https://github.com/tarcisovelame/projetos-sites/tree/master/iguatemi-pneus-2009) - Centro automotivo
