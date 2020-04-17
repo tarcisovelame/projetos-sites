@@ -1,3 +1,5 @@
 # Projeto: **UNYAHNA** _(Site)_
 
-![Image of](https://s.w.org/about/images/logos/wordpress-logo-stacked-rgb.png)
+<p align="center">
+![ícone de um monitor](http://velameweb.com.br/git/config/images/monitor.png)
+</p>
