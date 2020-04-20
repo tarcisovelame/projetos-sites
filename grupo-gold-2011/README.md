@@ -17,7 +17,7 @@
 
 <h3><img src="http://velameweb.com.br/git/config/images/html-icon.png" alt="HTML ícone" height="18px" /> HTML <em>(<a href="https://github.com/tarcisovelame/meu-cv/tree/master/html" target="_blank">meu know-how</a>)</em></h3>
 <ul>
-    <li>Site Tableless</li>
+    <li>Site Tableless</li> 
 </ul>
 
 <h3><img src="http://velameweb.com.br/git/config/images/css-icon.png" alt="CSS ícone" height="18px" /> CSS <em>(<a href="https://github.com/tarcisovelame/meu-cv/tree/master/css" target="_blank">meu know-how</a>)</em></h3>

@@ -16,7 +16,7 @@
 <h2>Tecnologias utilizadas</h2>
 
 <h3><img src="http://velameweb.com.br/git/config/images/html-icon.png" alt="HTML ícone" height="18px" /> HTML <em>(<a href="https://github.com/tarcisovelame/meu-cv/tree/master/css" target="_blank">meu know-how</a>)</em></h3>
-<ul>
+<ul> 
     <li>Site Tableless</li>
 </ul>
 
