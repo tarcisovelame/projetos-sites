@@ -3,12 +3,12 @@
 <img src="http://velameweb.com.br/git/config/images/monitor-with-margin.png" align="left" style="margin-top: 20px" />
 
 
-<h2>Home Sign - Suprimentos e Equipamentos para Comunicação Visual <em>(Site - 2013)</em></h2>
+<h2>Velame Cursos <em>(Site - 2012)</em></h2>
 
-<p>Projeto completo para a Home Sign</p>
+<p>Reprojeto da <strong>Projeta Comunicação Visual</strong>, empresa especializada em Counicação Visual em Salvador</p>
 
 <p>
-  <a href="http://velameweb.com.br/projetos-sites/home-sign-2013/" target="_blank">
+  <a href="http://velameweb.com.br/projetos-sites/velame-cursos-2012/" target="_blank">
     <strong>» Ver protótipo interativo do projeto</strong>
   </a>
 </p>
@@ -23,9 +23,7 @@
 <h3><img src="http://velameweb.com.br/git/config/images/css-icon.png" alt="CSS ícone" height="18px" /> CSS <em>(<a href="https://github.com/tarcisovelame/meu-cv/tree/master/css" target="_blank">meu know-how</a>)</em></h3>
 <ul>
     <li>CSS organizado</li>
-    <li>Responsividade</li>
     <li>Crossbrowser</li>
-    <li>Animations</li>
 </ul>
 
 <h3><img src="http://velameweb.com.br/git/config/images/wordpress-icon.png" alt="Wordpress ícone" height="18px" /> Wordpress <em>(<a href="https://github.com/tarcisovelame/meu-cv/tree/master/wordpress" target="_blank">meu know-how</a>)</em></h3>
@@ -35,12 +33,12 @@
     <li>Uso de Campos personalizados (Meta boxes)</li>
 </ul>
 
-<h2>Prints do projeto - 2013</h2>
+<h2>Prints do projeto - 2012</h2>
 
-<img src="http://velameweb.com.br/projetos-sites/home-sign-2013/screenshot.jpg" alt="Screenshot do projeto">
+<img src="http://velameweb.com.br/projetos-sites/velame-cursos-2012/screenshot.jpg" alt="Screenshot do projeto">
 
 <p align="center">
-  <a href="http://velameweb.com.br/projetos-sites/home-sign-2013/" target="_blank">
+  <a href="http://velameweb.com.br/projetos-sites/velame-cursos-2012/" target="_blank">
     <strong>» Ver protótipo interativo do projeto</strong>
   </a>
 </p>
