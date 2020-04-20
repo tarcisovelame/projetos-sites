@@ -3,12 +3,12 @@
 <img src="http://velameweb.com.br/git/config/images/monitor-with-margin.png" align="left" style="margin-top: 20px" />
 
 
-<h2>Mendoá Chocolates <em>(Site - 2014)</em></h2>
+<h2>Home Sign - Suprimentos e Equipamentos para Comunicação Visual <em>(Site - 2020)</em></h2>
 
-<p>Projeto para a Mendoá Chocolates, chocolateria premiada internacionalmente. Projeto em parceria com a Agência Mezo</p>
+<p>Projeto completo para a Home Sign</p>
 
 <p>
-  <a href="http://velameweb.com.br/projetos-sites/mendoa-2014/" target="_blank">
+  <a href="http://velameweb.com.br/projetos-sites/home-sign-2013/" target="_blank">
     <strong>» Ver protótipo interativo do projeto</strong>
   </a>
 </p>
@@ -35,12 +35,12 @@
     <li>Uso de Campos personalizados (Meta boxes)</li>
 </ul>
 
-<h2>Prints do projeto - 2014</h2>
+<h2>Prints do projeto - 2020</h2>
 
-<img src="http://velameweb.com.br/projetos-sites/mendoa-2014/screenshot.jpg" alt="Screenshot do projeto">
+<img src="http://velameweb.com.br/projetos-sites/home-sign-2013/screenshot.jpg" alt="Screenshot do projeto">
 
 <p align="center">
-  <a href="http://velameweb.com.br/projetos-sites/mendoa-2014/" target="_blank">
+  <a href="http://velameweb.com.br/projetos-sites/home-sign-2013/" target="_blank">
     <strong>» Ver protótipo interativo do projeto</strong>
   </a>
 </p>

@@ -3,12 +3,12 @@
 <img src="http://velameweb.com.br/git/config/images/monitor-with-margin.png" align="left" style="margin-top: 20px" />
 
 
-<h2>Mendoá Chocolates <em>(Site - 2014)</em></h2>
+<h2>Faculdade Unyahna <em>(Site - 2013)</em></h2>
 
-<p>Projeto para a Mendoá Chocolates, chocolateria premiada internacionalmente. Projeto em parceria com a Agência Mezo</p>
+<p>Projeto para a Faculdade Unyahna</p>
 
 <p>
-  <a href="http://velameweb.com.br/projetos-sites/mendoa-2014/" target="_blank">
+  <a href="http://velameweb.com.br/projetos-sites/faculdade-unyahna-2013/" target="_blank">
     <strong>» Ver protótipo interativo do projeto</strong>
   </a>
 </p>
@@ -25,7 +25,6 @@
     <li>CSS organizado</li>
     <li>Responsividade</li>
     <li>Crossbrowser</li>
-    <li>Animations</li>
 </ul>
 
 <h3><img src="http://velameweb.com.br/git/config/images/wordpress-icon.png" alt="Wordpress ícone" height="18px" /> Wordpress <em>(<a href="https://github.com/tarcisovelame/meu-cv/tree/master/wordpress" target="_blank">meu know-how</a>)</em></h3>
@@ -35,12 +34,12 @@
     <li>Uso de Campos personalizados (Meta boxes)</li>
 </ul>
 
-<h2>Prints do projeto - 2014</h2>
+<h2>Prints do projeto - 2013</h2>
 
-<img src="http://velameweb.com.br/projetos-sites/mendoa-2014/screenshot.jpg" alt="Screenshot do projeto">
+<img src="http://velameweb.com.br/projetos-sites/faculdade-unyahna-2013/screenshot.jpg" alt="Screenshot do projeto">
 
 <p align="center">
-  <a href="http://velameweb.com.br/projetos-sites/mendoa-2014/" target="_blank">
+  <a href="http://velameweb.com.br/projetos-sites/faculdade-unyahna-2013/" target="_blank">
     <strong>» Ver protótipo interativo do projeto</strong>
   </a>
 </p>

@@ -3,12 +3,12 @@
 <img src="http://velameweb.com.br/git/config/images/monitor-with-margin.png" align="left" style="margin-top: 20px" />
 
 
-<h2>Mendoá Chocolates <em>(Site - 2014)</em></h2>
+<h2>Projeta Comunicação Visual <em>(Site - 2013)</em></h2>
 
-<p>Projeto para a Mendoá Chocolates, chocolateria premiada internacionalmente. Projeto em parceria com a Agência Mezo</p>
+<p>Projeto focado em Comunicação Visual para a Projeta</p>
 
 <p>
-  <a href="http://velameweb.com.br/projetos-sites/mendoa-2014/" target="_blank">
+  <a href="http://velameweb.com.br/projetos-sites/projeta-2013/" target="_blank">
     <strong>» Ver protótipo interativo do projeto</strong>
   </a>
 </p>
@@ -18,6 +18,7 @@
 <h3><img src="http://velameweb.com.br/git/config/images/html-icon.png" alt="HTML ícone" height="18px" /> HTML <em>(<a href="https://github.com/tarcisovelame/meu-cv/tree/master/css" target="_blank">meu know-how</a>)</em></h3>
 <ul>
     <li>Codificação semântica</li>
+    <li>Integração com redes sociais</li>
 </ul>
 
 <h3><img src="http://velameweb.com.br/git/config/images/css-icon.png" alt="CSS ícone" height="18px" /> CSS <em>(<a href="https://github.com/tarcisovelame/meu-cv/tree/master/css" target="_blank">meu know-how</a>)</em></h3>
@@ -33,14 +34,15 @@
     <li>Criação do tema</li>
     <li>Uso de Posts personalizados (Custom posts)</li>
     <li>Uso de Campos personalizados (Meta boxes)</li>
+    <li>Criação de plugin</li>
 </ul>
 
-<h2>Prints do projeto - 2014</h2>
+<h2>Prints do projeto - 2013</h2>
 
-<img src="http://velameweb.com.br/projetos-sites/mendoa-2014/screenshot.jpg" alt="Screenshot do projeto">
+<img src="http://velameweb.com.br/projetos-sites/projeta-2013/screenshot.jpg" alt="Screenshot do projeto">
 
 <p align="center">
-  <a href="http://velameweb.com.br/projetos-sites/mendoa-2014/" target="_blank">
+  <a href="http://velameweb.com.br/projetos-sites/projeta-2013/" target="_blank">
     <strong>» Ver protótipo interativo do projeto</strong>
   </a>
 </p>
