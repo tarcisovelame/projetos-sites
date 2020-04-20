@@ -35,7 +35,7 @@
 
 <h2>Prints do projeto - 2014</h2>
 
-<img src="http://velameweb.com.br/projetos-sites/sante-2014/screenshot.png" alt="Screenshot do projeto">
+<img src="http://velameweb.com.br/projetos-sites/sante-2014/screenshot.jpg" alt="Screenshot do projeto">
 
 <p align="center">
   <a href="http://velameweb.com.br/projetos-sites/sante-2014/" target="_blank">
