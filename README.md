@@ -43,13 +43,13 @@
 * [Rane ADM](https://github.com/tarcisovelame/projetos-sites/tree/master/rane-adm-2012) - Administração de condomínios
 * [Velame Cursos](https://github.com/tarcisovelame/projetos-sites/tree/master/velame-cursos-2012)
 * [Velame WEB](https://github.com/tarcisovelame/projetos-sites/tree/master/velame-web-2012) - Agência digital
-* [(Angola) FAS](https://github.com/tarcisovelame/projetos-sites/tree/master/FAS-2012) - Fundo de Apoio Social
-* [(Angola) Vilarinho Software](https://github.com/tarcisovelame/projetos-sites/tree/master/vilarinho-2012)
+* [(Angola) FAS](https://github.com/tarcisovelame/projetos-sites/tree/master/angola-FAS-2012) - Fundo de Apoio Social
+* [(Angola) Vilarinho Software](https://github.com/tarcisovelame/projetos-sites/tree/master/angola-vilarinho-2012)
 
 ## 2011
 * [Grupo Gold](https://github.com/tarcisovelame/projetos-sites/tree/master/grupo-gold-2011) - Administração de condomínios
-* [(Angola) Chibia](https://github.com/tarcisovelame/projetos-sites/tree/master/chibia-2011) - Província da Angola
-* [(Angola) DEL](https://github.com/tarcisovelame/projetos-sites/tree/master/DEL-2011) - Programa de Desenvolvimento Econômico Local
+* [(Angola) Chibia](https://github.com/tarcisovelame/projetos-sites/tree/master/angola-chibia-2011) - Província da Angola
+* [(Angola) DEL](https://github.com/tarcisovelame/projetos-sites/tree/master/angola-DEL-2011) - Programa de Desenvolvimento Econômico Local
 
 ## 2009
 * [Iguatemi Pneus](https://github.com/tarcisovelame/projetos-sites/tree/master/iguatemi-pneus-2009) - Centro automotivo
