@@ -38,7 +38,7 @@
 
 <h2>Prints do projeto - 2017</h2>
 
-<img src="http://velameweb.com.br/projetos-sites/velame-cursos-2017/screenshot.png" alt="Screenshot do projeto">
+<img src="http://velameweb.com.br/projetos-sites/velame-cursos-2017/screenshot.jpg" alt="Screenshot do projeto">
 
 <p align="center">
   <a href="http://velameweb.com.br/projetos-sites/velame-cursos-2017/" target="_blank">

@@ -3,12 +3,12 @@
 <img src="http://velameweb.com.br/git/config/images/monitor-with-margin.png" align="left" style="margin-top: 20px" />
 
 
-<h2>Projeta Comunicação Visual <em>(Site - 2020)</em></h2>
+<h2>Planeta - Loja de roupas <em>(Site - 2017)</em></h2>
 
-<p>Reprojeto da <strong>Projeta Comunicação Visual</strong>, empresa especializada em Counicação Visual em Salvador</p>
+<p>Projeto em parceria com a Agência Arandas</p>
 
 <p>
-  <a href="http://velameweb.com.br/projetos-sites/projeta-2020/" target="_blank">
+  <a href="http://velameweb.com.br/projetos-sites/planeta-2017/" target="_blank">
     <strong>» Ver protótipo interativo do projeto</strong>
   </a>
 </p>
@@ -37,12 +37,12 @@
     <li>Criação de plugin</li>
 </ul>
 
-<h2>Prints do projeto - 2020</h2>
+<h2>Prints do projeto - 2017</h2>
 
-<img src="http://velameweb.com.br/projetos-sites/projeta-2020/screenshot.jpg" alt="Screenshot do projeto">
+<img src="http://velameweb.com.br/projetos-sites/planeta-2017/screenshot.jpg" alt="Screenshot do projeto">
 
 <p align="center">
-  <a href="http://velameweb.com.br/projetos-sites/projeta-2020/" target="_blank">
+  <a href="http://velameweb.com.br/projetos-sites/planeta-2017/" target="_blank">
     <strong>» Ver protótipo interativo do projeto</strong>
   </a>
 </p>
